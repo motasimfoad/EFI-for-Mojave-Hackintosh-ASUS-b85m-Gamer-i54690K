@@ -5,7 +5,7 @@ All the supporting kext and configuration for following specification are includ
 
   My website : https://motasimfoad.com  
 
-Specification : 
+# Specification : 
 Processor : Intel, i5 4690K
 Graphics : Intel HD 4600
 Motherboard : ASUS b85m Gamer
