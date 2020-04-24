@@ -4,7 +4,7 @@ This repository includes all the kext and configuration for ASUS B85m Gammer &am
 All the supporting kext and configuration for following specification are included in this repository. Everything is working fine on my build. If you need any guides or support feel free to ping.
 
 You can visit my website to know more about my works & also to contact me.
-  My website : https://motasimfoad.com  
+  My website : https://motasimfoad.com/contact  
 
 # Specification : 
 Processor : Intel, i5 4690K
